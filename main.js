@@ -1,0 +1,3 @@
+.js{
+    font-weright: bold;
+}
